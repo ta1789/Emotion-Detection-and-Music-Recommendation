@@ -10,5 +10,5 @@ The Dataset used were FER Datatset from Kaggle.Dataset Link- [https://www.kaggle
 The dataset set contains 48 X 48 pixel greyscale images of five emotions angry,disgust,fear,happy,neutral,sad,surprise.
 
 # Models Used for Image Emotion Prediction
-[1] CNN Sequential Model 
-[2] Resnet50
+1. CNN Sequential Model 
+2. Resnet50
